@@ -32,7 +32,7 @@ Follow these steps to get the Text Util App up and running on your local machine
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/text-util-app.git
+   git clone https://github.com/AOB-IT-ADMIN/text-util
    ```
 
 2. Install dependencies:
