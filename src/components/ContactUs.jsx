@@ -11,8 +11,11 @@ const ContactUs = () => {
     letterSpacing: "5px",
   };
   return (
-    <div>
+    <div className="text-center">
       <h1 style={style}>Contact Us</h1>
+      <a href="https://github.com/AOB-IT-ADMIN" style={style}>
+        Connect on GitHub
+      </a>
     </div>
   );
 };
